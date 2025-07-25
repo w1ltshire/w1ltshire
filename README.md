@@ -5,5 +5,5 @@
 ! hi! i'm w1ltshire (or corruptmemory)
 + i am an amateur rust developer and a homelab enthusiast
 - i use void linux & neovim as my primary code editor
-# my openpgp fingerprint is 0x7F8CFA8E58EE0C96, and my e-mail is wiltshire [AT] ruf.st
+# my openpgp fingerprint is 0x37151D7AE4429151, and my e-mail is wiltshire [AT] ruf.st
 ```
