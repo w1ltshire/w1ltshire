@@ -5,5 +5,5 @@
 ! hi! i'm w1ltshire (asya)
 + i am an amateur rust developer and a homelab enthusiast
 - i'm quite interested in graphics, embedded programing, radio astronomy, hpc and other cool things
-# my openpgp fingerprint is 0x37151D7AE4429151, and my e-mail is wiltshire [AT] ruf.st
+# for whatever reason you might want to forfeit your monetary posessions to me, i take LTC on ltc1qsy5vv47kdmxfgx5aaay7sr9nntk9fykk5u2h54
 ```
